@@ -9,18 +9,177 @@ Weekly Response Paper
 
 These will offer a critical assessment of the assigned materials and not mere restatement of content. Nine response papers are expected—you will not be expected to write one on the day you are presenting or on the day we discuss the ethnographies, and you will have one week of your choice off. The responses will be graded on a √+, √, √- scale. For more information, please see the [Assignments]({{< baseurl >}}/pages/assignments) page.
 
-| SES # | TOPICS | ASSIGNMENTS DUE |
-| --- | --- | --- |
-| 1 | Introduction to the Course, Orientation at MCI Norfolk | &nbsp; |
-| 2 | The Sociological Imagination | &nbsp; |
-| 3 | Early Urban Sociology | &nbsp; |
-| 4 | Community and How to Study It | &nbsp; |
-| 5 | The Ethnographic Tradition | &nbsp; |
-| 6 | Urban Political Economy: Cities, Industrialization, Deindustrialization | Reflection paper due |
-| 7 | Urban Political Economy: Elites, Political Power, and Urban Dynamics | &nbsp; |
-| 8 | Theories of Urban Inequality | Final Project Proposal due |
-| 9 | Identities, Boundaries, and Inequality | &nbsp; |
-| 10 | Social Capital and Social Networks | &nbsp; |
-| 11 | Neighborhood Effects: Order, Disorder, and Collective Efficacy | &nbsp; |
-| 12 | Social Origins of Violence | &nbsp; |
-| 13 | Collective Action | Final Project due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS DUE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Course, Orientation at MCI Norfolk
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Sociological Imagination
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Early Urban Sociology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Community and How to Study It
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Ethnographic Tradition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Urban Political Economy: Cities, Industrialization, Deindustrialization
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Urban Political Economy: Elites, Political Power, and Urban Dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Theories of Urban Inequality
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Identities, Boundaries, and Inequality
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Social Capital and Social Networks
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Neighborhood Effects: Order, Disorder, and Collective Efficacy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Social Origins of Violence
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Collective Action
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
