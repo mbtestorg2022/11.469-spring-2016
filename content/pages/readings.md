@@ -68,7 +68,7 @@ Early Urban Sociology
 
 DuBois, W. E. B. Chapters 1–2 in _The Souls of Black Folk: A Social Study_. Tribeca Books, 2011. ISBN: 9781612931074.
 
-Simmel, Georg. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Metropolis and Metal Life (PDF)](http://www.blackwellpublishing.com/content/bpl_images/content_store/sample_chapter/0631225137/bridge.pdf) (1903).
+Simmel, Georg. [The Metropolis and Metal Life (PDF)](http://www.blackwellpublishing.com/content/bpl_images/content_store/sample_chapter/0631225137/bridge.pdf) (1903).
 
 Park, Robert E. "[The City: Suggestions for the Investigation of Human Behavior in the City Environment](http://www.jstor.org/stable/2763406)." _American Journal of Sociology_ 20, no. 5 (1915): 577–612.
 
@@ -266,7 +266,7 @@ Bourdieu, Pierre. "The Forms of Capital." In _Handbook of Theory and Research fo
 
 Coleman, James S. "[Social Capital in the Creation of Human Capital](http://www.jstor.org/stable/2780243)." _American Journal of Sociology_ 94 (1988): S95–S120.
 
-Lin, Nan. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Building a Network Theory of Social Capital (PDF - 1.8MB)](https://pdfs.semanticscholar.org/16a9/441c05a3bb9e359c868dde882889c6ef8df9.pdf)." _Connections_ 22, no. 1 (1999): 28–51.
+Lin, Nan. "[Building a Network Theory of Social Capital (PDF - 1.8MB)](https://pdfs.semanticscholar.org/16a9/441c05a3bb9e359c868dde882889c6ef8df9.pdf)." _Connections_ 22, no. 1 (1999): 28–51.
 
 Burt, Ronald S. "[Structural Holes and Good Ideas](http://dx.doi.org/10.1086/421787)." _American Journal of Sociology_ 110, no. 2 (2004): 349–99.
 
@@ -290,13 +290,13 @@ Neighborhood Effects: Order, Disorder, and Collective Efficacy
 
 Sampson, Robert J. "[Moving to Inequality: Neighborhood Effects and Experiments Meet Social Structure](http://dx.doi.org/10.1086/589843)." _American Journal of Sociology_ 114, no. 1 (2008): 189–231.
 
-Sharkey, Patrick. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Residential Mobility and the Reproduction of Unequal Neighborhoods](https://www.huduser.gov/portal/periodicals/cityscpe/vol14num3/Cityscape_Nov2012_res_mobility.pdf)." _Cityscape_ (2012): 9–31.
+Sharkey, Patrick. "[Residential Mobility and the Reproduction of Unequal Neighborhoods](https://www.huduser.gov/portal/periodicals/cityscpe/vol14num3/Cityscape_Nov2012_res_mobility.pdf)." _Cityscape_ (2012): 9–31.
 
 ———. "[Geographic Migration of Black and White Families Over Four Generations](http://dx.doi.org/10.1007/s13524-014-0368-8)." _Demography_ 52, no. 1 (2015): 209–31.
 
 Sharkey, Patrick, and Jacob W. Faber. "[Where, When, Why, and for Whom Do Residential Contexts Matter? Moving Away from the Dichotomous Understanding of Neighborhood Effects](http://dx.doi.org/10.1146/annurev-soc-071913-043350)." _Annual Review of Sociology_ 40 (2014): 559–79.
 
-Chetty, Raj, Nathaniel Hendren, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Where Is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States (PDF - 2.3MB)](http://dx.doi.org/10.3386/w19843)." No. w19843. National Bureau of Economic Research, 2014.
+Chetty, Raj, Nathaniel Hendren, et al. "[Where Is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States (PDF - 2.3MB)](http://dx.doi.org/10.3386/w19843)." No. w19843. National Bureau of Economic Research, 2014.
 
 Chetty, Raj, Nathaniel Hendren, et al. "[The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment](http://dx.doi.org/10.1257/aer.20150572)." _American Economic Review_ 106, no. 4 (2016): 855–902.
 
